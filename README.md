@@ -20,7 +20,7 @@
         b. The compiler assigned values to the variables. What are these values called?
     code: here’s the solution: https://play.golang.org/p/jzHwSlles9
 
-# Hands-on exercise #3
+# HandsOn Exercise - 03
     Using the code from the previous exercise,
     1. At the package level scope, assign the following values to the three variables
        a. for x assign 42
