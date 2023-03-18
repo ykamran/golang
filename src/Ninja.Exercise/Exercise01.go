@@ -1,7 +1,6 @@
 package main
 
 /**
-
 Hands-on exercise #1
 	1. Using the short declaration operator, ASSIGN these VALUES to VARIABLES with the
 	IDENTIFIERS “x” and “y” and “z”
@@ -12,7 +11,6 @@ Hands-on exercise #1
 	a. a single print statement
 	b. multiple print statements
 	code: here’s the solution: https://play.golang.org/p/yYXnWXIQNa
-
 */
 
 import "fmt"
