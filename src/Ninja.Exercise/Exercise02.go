@@ -22,6 +22,9 @@ var z bool
 func main() {
 
 	fmt.Println("x: ", x)
+	if y == "" {
+		fmt.Println("Y is empty")
+	}
 	fmt.Println("y: ", y)
 	fmt.Println("z: ", z)
 }
