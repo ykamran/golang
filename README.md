@@ -7,7 +7,6 @@
     2. Now print the values stored in those variables using
         a. a single print statement
         b. multiple print statements
-    code: here’s the solution: https://play.golang.org/p/yYXnWXIQNa
   
 # HandsOn Exercise - 02
     1. Use var to DECLARE three VARIABLES. The variables should have package level
@@ -18,7 +17,6 @@
     2. in func main
         a. print out the values for each identifier
         b. The compiler assigned values to the variables. What are these values called?
-    code: here’s the solution: https://play.golang.org/p/jzHwSlles9
 
 # HandsOn Exercise - 03
     Using the code from the previous exercise,
