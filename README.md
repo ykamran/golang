@@ -29,4 +29,15 @@
     2. in func main
       a. use fmt.Sprintf to print all of the VALUES to one single string. ASSIGN the returned value of TYPE string using the short declaration operator to a VARIABLE with the IDENTIFIER “s”
       b. print out the value stored by variable “s”
-      
+
+# HandsOn Exercise - 04
+    ● FYI - nice documentation and new terminology “underlying type”
+    ○ https://golang.org/ref/spec#Types For this exercise
+    1. Create your own type. Have the underlying type be an int.
+    2. create a VARIABLE of your new TYPE with the IDENTIFIER “x” using the “VAR”
+      keyword
+    3. in func main
+        a. print out the value of the variable “x”
+        b. print out the type of the variable “x”
+        c. assign 42 to the VARIABLE “x” using the “=” OPERATOR
+        d. print out the value of the variable “x”
